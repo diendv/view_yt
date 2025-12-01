@@ -1,0 +1,1 @@
+var t=function(r){return r.Prompt="PROMPT",r.Camera="CAMERA",r.Photos="PHOTOS",r}(t||{}),n=function(r){return r.Rear="REAR",r.Front="FRONT",r}(n||{}),o=function(r){return r.Uri="uri",r.Base64="base64",r.DataUrl="dataUrl",r}(o||{});export{t as a,n as b,o as c};
